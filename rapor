@@ -1,0 +1,3 @@
+Arduino projem bir gaz sensörü projesidir.
+Gaz kaçağının önemli ölçüdeki tehlikesini göz önünde bulundurarak hazırladığım bu proje, gazı algıladığında başta kırmızı yanan RGB Led i maviye dönüyor ve alarmı çalarak bizi uyarıyor.
+Proje için Arduino Uno, buzzer kartı, RGB led kartı, MQ-4 gaz sensörü ve jumper kablo kullandım.
